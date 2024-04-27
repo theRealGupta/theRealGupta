@@ -11,7 +11,7 @@ Throughout my career, I have worked on a variety of applications, providing the 
 
 <a href="https://www.twitter.com/therealgupta_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/therealgupta_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/anupgupta-arg" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.github.com/therealgupta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anupgupta-arg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
